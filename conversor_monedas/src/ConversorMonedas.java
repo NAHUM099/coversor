@@ -7,7 +7,7 @@ import org.json.JSONObject;
 
 public class ConversorMonedas {
 
-    private static final String CLAVE_API = "22f6a7ea564061317d1b62d0";  // Reemplaza con tu clave de API
+    private static final String CLAVE_API = "22f6a7ea564061317d1b62d0";  // SE REEMPLAZA CON LA LLAVE API
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
