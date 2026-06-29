@@ -104,7 +104,7 @@ public class ConversorMonedas {
 
                 // Mostrar los resultados de la conversión
                 System.out.printf("Tasa de cambio: %.2f%n", tasaCambio);
-                System.out.printf("Monto convertido es este: %.2f %s%n", montoConvertido, monedaDestino);
+                System.out.printf("Monto convertido : %.2f %s%n", montoConvertido, monedaDestino);
             } else {
                 System.out.println("Error en la respuesta de la API. Código: " + codigoRespuesta);
             }
